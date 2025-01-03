@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LiChangCahng的小站</title>
+  
+  
+  <link href="https://c123-123-max.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://c123-123-max.github.io/"/>
+  <updated>2025-01-03T14:02:04.649Z</updated>
+  <id>https://c123-123-max.github.io/</id>
+  
+  <author>
+    <name>LiChangCahng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的家乡 广西钦州</title>
+    <link href="https://c123-123-max.github.io/2024/12/%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1/"/>
+    <id>https://c123-123-max.github.io/2024/12/%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1/</id>
+    <published>2025-01-03T13:08:23.718Z</published>
+    <updated>2025-01-03T14:02:04.649Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;我的家乡</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://c123-123-max.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="故乡" scheme="https://c123-123-max.github.io/categories/%E7%94%9F%E6%B4%BB/%E6%95%85%E4%B9%A1/"/>
+    
+    <category term="文化" scheme="https://c123-123-max.github.io/categories/%E7%94%9F%E6%B4%BB/%E6%95%85%E4%B9%A1/%E6%96%87%E5%8C%96/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>四大名著介绍</title>
+    <link href="https://c123-123-max.github.io/2024/12/%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%E4%BB%8B%E7%BB%8D/"/>
+    <id>https://c123-123-max.github.io/2024/12/%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%E4%BB%8B%E7%BB%8D/</id>
+    <published>2024-12-30T02:00:00.000Z</published>
+    <updated>2025-01-03T12:46:00.707Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;四大名著介绍&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="四大名著" scheme="https://c123-123-max.github.io/tags/%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97/"/>
+    
+    <category term="文学" scheme="https://c123-123-max.github.io/tags/%E6%96%87%E5%AD%A6/"/>
+    
+    <category term="经典" scheme="https://c123-123-max.github.io/tags/%E7%BB%8F%E5%85%B8/"/>
+    
+  </entry>
+  
+</feed>
